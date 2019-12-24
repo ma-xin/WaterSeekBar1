@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <declare-styleable name="WaterSeekBar">
+        <attr name="thumb_icon" format="reference"/>
+        <attr name="thumb_icon_size" format="dimension"/>
+        <attr name="thumb_icon_color" format="color"/>
+        <attr name="node_icon" format="reference"/>
+        <attr name="node_icon_size" format="dimension"/>
+        <attr name="node_icon_color" format="color"/>
+        <attr name="water_icon" format="reference"/>
+        <attr name="water_icon_size" format="dimension"/>
+        <attr name="max" format="integer"/>
+        <attr name="progress" format="integer"/>
+    </declare-styleable>
+    
+    
+</resources>
